@@ -6,7 +6,7 @@ disqusShortname = "dprimax" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "Sal Prima"
     description = "Like I ❤ You"
     githubUsername = "dprimax"
     accent = "#8b6b61"
@@ -14,8 +14,8 @@ googleAnalytics = ""
     backgroundColor = "#321911"
     font = "Ubuntu" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightStyle = "atom-one-dark"
+    highlightLanguages = ["go", "java", "javascript", "html", "css"]
     copyright = "&copy; 2017 [dprimax](https://dprimax.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)"
 
 [[menu.main]]
