@@ -109,3 +109,11 @@ p {
 .title , .title-single a{
   color: #efebe9;
 }
+
+ol {
+  color: #efebe9;
+}
+
+.page-header {
+    color: #8b6b61;
+}
