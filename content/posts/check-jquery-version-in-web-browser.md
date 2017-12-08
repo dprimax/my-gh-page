@@ -1,7 +1,7 @@
 ---
 title: "Check jQuery version"
 date: 2016-05-14
-tags: ["JavaScript", "jQuery"]
+tags: ["javascript", "jquery"]
 draft: false
 ---
 
