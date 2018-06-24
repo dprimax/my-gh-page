@@ -18,6 +18,6 @@
 
     <h3 class="title-single"><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h3>
     <h5 class="subtitle">{{ $.Scratch.Get "subtitle" }}</h5>
-    {{ range .Params.tags }} <kbd class="item-tag">{{ . }}</kbd> {{ end }}
+    {{ range .Params.tags }} <a href="/tags/{{ . }}"><kbd class="item-tag">{{ . }}</kbd></a> {{ end }}
 
 </div>
