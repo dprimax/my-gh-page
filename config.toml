@@ -16,7 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "atom-one-dark"
     highlightLanguages = ["go", "java", "javascript", "html", "css"]
-    copyright = "&copy; 2017 [dprimax](https://dprimax.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)"
+    copyright = "&copy; 2018 [dprimax](https://dprimax.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)"
 
 [[menu.main]]
     url = "/"
@@ -24,14 +24,14 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.main]]
-    url = "/posts/"
+    url = "/posts"
     name = "Posts"
     weight = 2
 
-#[[menu.main]]
-#    url = "/project/"
-#    name = "Projects"
-#    weight = 3
+[[menu.main]]
+    url = "/tags"
+    name = "Tags"
+    weight = 3
 
 #[[menu.main]]
 #    url = "/about"
@@ -57,7 +57,7 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/dprimax"
+    url = "https://www.linkedin.com/in/salprima"
     name = "linkedin"
     weight = 4
 
