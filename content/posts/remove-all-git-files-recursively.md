@@ -12,9 +12,9 @@ draft: false
 2. Find all git related files recursively and remove all
 
 ```
-find . -type d -name ".git" \
-&& find . -name ".gitignore" \
-&& find . -name ".gitmodules"
+( find . -type d -name ".git" \
+  && find . -name ".gitignore" \
+  && find . -name ".gitmodules" ) | xargs rm -rf
 ```
 
 Credits: https://stackoverflow.com/questions/4822321/remove-all-git-files-from-a-directory
