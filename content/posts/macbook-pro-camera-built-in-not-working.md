@@ -11,4 +11,5 @@ Open a terminal and type:
 
 above command should fix Camera issue on Your MacBook Pro
 
-Source: https://discussions.apple.com/thread/4282533
+<br/><br/><br/>
+*```Credits: https://discussions.apple.com/thread/4282533```*

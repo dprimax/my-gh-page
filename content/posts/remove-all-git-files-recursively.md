@@ -1,5 +1,5 @@
 ---
-title: "Remove all git files from a directory recursively"
+title: "Remove All git Files From a Directory Recursively"
 date: 2018-07-29
 tags: ["handy-script", "shell-script", "bash", "git"]
 draft: false
@@ -17,4 +17,5 @@ draft: false
   && find . -name ".gitmodules" ) | xargs rm -rf
 ```
 
-Credits: https://stackoverflow.com/questions/4822321/remove-all-git-files-from-a-directory
+<br/><br/><br/>
+*```Credits: https://stackoverflow.com/questions/4822321```*

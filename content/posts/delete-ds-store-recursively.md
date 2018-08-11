@@ -1,5 +1,5 @@
 ---
-title: "Delete .DS_Store recursively"
+title: "Delete .DS_Store Recursively"
 date: 2018-06-24
 tags: ["handy-script", "shell-script", "bash"]
 draft: false
@@ -14,4 +14,5 @@ draft: false
     `$ find . -name '.DS_Store' -type f -delete`
 
 
-Credits: https://jonbellah.com/articles/recursively-remove-ds-store
+<br/><br/><br/>
+*```Credits: https://jonbellah.com/articles/recursively-remove-ds-store```*
