@@ -9,7 +9,7 @@ For example we want to kill a process locking at port `8080`<br/><br/>
 
 1. With `netstat`
 
-    * `$ kill -9 $(netstat -vanp tcp | grep 8080 | | grep LISTEN | awk '{print $9}')`<br/><br/>
+    * `$ kill -9 $(netstat -vanp tcp | grep 8080 | grep LISTEN | awk '{print $9}')`<br/><br/>
 
 2. With `lsof` *(this command may need `sudo` operation)*
 
