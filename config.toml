@@ -1,4 +1,4 @@
-baseURL = "https://dprimax.github.io/"
+baseURL = "https://salprima.github.io/"
 languageCode = "en-us"
 title = "I Code You"
 theme = "minimal"
@@ -16,7 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "atom-one-dark"
     highlightLanguages = ["go", "java", "javascript", "html", "css"]
-    copyright = "&copy; 2018 [dprimax](https://dprimax.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)"
+    copyright = "&copy; 2018 [salprima](https://salprima.github.io) All rights reserved. Powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal)"
 
 [[menu.main]]
     url = "/"
@@ -47,7 +47,7 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/dprimax"
+    url = "https://github.com/salrprima"
     name = "github"
     weight = 2
 
